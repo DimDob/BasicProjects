@@ -1,0 +1,11 @@
+print("Welcome to our website!")
+print("Please, let us know your data for business reasons. We'd be happy if you share feedback with us")
+name=input("What is your name?")
+input("I am a mr/mrs""-")
+age=int(input("What is your age?"))
+input("what is your nationality?")
+print("Then you are from Bulgaria")
+print("You are then born in year", 2021-age, "!")
+print("Thank you for your understanding!", "We'd be happy if you share your feedback with us!")
+print("have a nice day!")
+
